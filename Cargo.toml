@@ -1,0 +1,12 @@
+[package]
+name = "hep-ci"
+version = "1.0.0"
+edition = "2021"
+description = "hep-ci — continuous integration for the hep ecosystem (Rust edition)"
+
+[[bin]]
+name = "hep-ci"
+path = "src/main.rs"
+
+[dependencies]
+chrono = "0.4"
