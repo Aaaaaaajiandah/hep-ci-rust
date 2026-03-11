@@ -1,4 +1,4 @@
-# hep-ci
+# hep-ci-rust
 
 Continuous integration runner for the hep ecosystem. Reads a `.hep-ci.yml` pipeline file, runs jobs locally or as a daemon triggered by pushes, and keeps a log of every run.
 
